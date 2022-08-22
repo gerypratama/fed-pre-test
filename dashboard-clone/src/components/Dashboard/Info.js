@@ -18,7 +18,7 @@ const Info = () => {
           src={MigLogo}
           alt="MIG"
           width={100}
-          className="rounded-full border-2 border-gray-200 absolute w-28 top-[8.5rem] left-[30%] sm:w-20 md:w-24 md:top-[105px] lg:top-28 xl:w-28 xl:top-[155px] xl:left-1/3"
+          className="rounded-full border-2 border-gray-200 absolute w-28 top-[8.5rem] left-[30%] sm:w-20 sm:top-[105px] md:w-24 md:top-[105px] lg:top-28 xl:w-28 xl:top-[155px] xl:left-1/3"
         />
       </div>
       <div className="mt-16 text-center mb-3 sm:px-3">
